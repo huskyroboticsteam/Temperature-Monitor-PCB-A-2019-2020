@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=CAN-1
+Removed Pin From Net: NetName=GND Pin=DB-1
+Removed Pin From Net: NetName=GND Pin=ERR-1
+Removed Pin From Net: NetName=GND Pin=PWR-1
+Removed Pin From Net: NetName=NetERR_2 Pin=R1-2
+Removed Pin From Net: NetName=NetDB_2 Pin=R2-2
+Removed Pin From Net: NetName=NetCAN_2 Pin=R3-2
+Removed Pin From Net: NetName=NetPWR_2 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetPWR_2 Pin=U1-48
+Added Pin To Net: NetName=NetCAN_2 Pin=U1-49
+Added Pin To Net: NetName=NetDB_2 Pin=U1-50
+Added Pin To Net: NetName=NetERR_2 Pin=U1-51
+Added Pin To Net: NetName=NetCAN_1 Pin=CAN-1
+Added Pin To Net: NetName=NetCAN_1 Pin=R3-1
+Added Net: Name=NetCAN_1
+Added Pin To Net: NetName=NetDB_1 Pin=DB-1
+Added Pin To Net: NetName=NetDB_1 Pin=R2-1
+Added Net: Name=NetDB_1
+Added Pin To Net: NetName=NetERR_1 Pin=ERR-1
+Added Pin To Net: NetName=NetERR_1 Pin=R1-1
+Added Net: Name=NetERR_1
+Added Pin To Net: NetName=NetPWR_1 Pin=PWR-1
+Added Pin To Net: NetName=NetPWR_1 Pin=R4-1
+Added Net: Name=NetPWR_1
