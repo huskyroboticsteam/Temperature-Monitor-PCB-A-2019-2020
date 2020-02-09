@@ -1,20 +1,30 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Temperature Monitor & Display.GBR   2/8/2020  2:35:34 PM
+Gerber File Extension Report For: Temperature Monitor & Display.GBR   2/8/2020  4:30:32 PM
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTO                Top Overlay                             
-.GTP                Top Paste                               
-.GTS                Top Solder                              
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
-.GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
-.GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
-.GPT                Top Pad Master                          
-.GPB                Bottom Pad Master                       
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 13                           
+.gbr                Mechanical 4                            
+.gbr                Mechanical 16                           
+.gbr                Mechanical 1                            
+.gbr                Mechanical 15                           
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
 ------------------------------------------------------------------------------------------
