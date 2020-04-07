@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=+5 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=+5 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Member From Class: ClassName=U_Power Supply Noise Canceller Member=C10
+Removed Member From Class: ClassName=U_Power Supply Noise Canceller Member=C12
+Removed Member From Class: ClassName=U_Clock Member=C13
+Removed Member From Class: ClassName=U_Power Supply Noise Canceller Member=C13
+Removed Member From Class: ClassName=U_Reset Member=C14
+Removed Member From Class: ClassName=U_Analog Input Noise Canceller Member=C16
+Removed Member From Class: ClassName=U_Power Supply Noise Canceller Member=C16
+Removed Member From Class: ClassName=U_CAN System Member=P4
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2013X70X45ML10T25 New Footprint=CAPC2013X88X50LL20T25
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2013X145X50LL20T25 New Footprint=CAPC2013X145X50LL20T20
+Change component parameters: Designator = "C4"; Footprint = "CAPC2013X88X50LL20T25"; UniqueID = "\XVTKCVWC\HBDXMRZD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "C0805C103K5RAC7800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.01uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance - nF"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance - pF"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Height"; Value = "0.78mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Width"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C0805C103K5RAC.pdf?pn=C0805C103K5RAC{BULK}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "1.2mmWx2mmLx0.78mmH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor DF"; Value = "2.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805(2012metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "C0805C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAPC2013X145X50LL20T20"; UniqueID = "\XVTKCVWC\WEZPBWGN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "Vishay/Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/28548/vjw1bcbascomseries.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805(2012metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2.00 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VJW1BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "10VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=L2-1
+Added Pin To Net: NetName=NetC11_2 Pin=U1-61
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=L3-1
+Added Pin To Net: NetName=NetC12_2 Pin=U1-60
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=U_External ADC Member=Component Battery Molex Micro
+Added Member To Class: ClassName=U_Power Supply Noise Canceller Member=Component C4 0.01uF
+Added Member To Class: ClassName=U_Power Supply Noise Canceller Member=Component C5 0.1uF
+Added Member To Class: ClassName=U_Power Supply Noise Canceller Member=Component C6 1uF
+Added Member To Class: ClassName=U_Power Supply Noise Canceller Member=Component C7 10uF
+Added Member To Class: ClassName=U_Clock Member=Component C8 0.1uF
+Added Member To Class: ClassName=U_Reset Member=Component C9 0.1uF
+Added Member To Class: ClassName=U_Analog Input Noise Canceller Member=Component C11 0.1uF
+Added Member To Class: ClassName=U_TXD-RXD Member=Component J1 Molex micro-
+Added Member To Class: ClassName=U_Display Member=Component J2 Molex micro-
+Added Member To Class: ClassName=U_External ADC Member=Component L6 10uH
+Added Member To Class: ClassName=U_JTAG Member=Component P1 SAMTEC-FTSH-105-01-X-D
+Added Member To Class: ClassName=U_CAN System Member=Component P3 Header 8X2
+Added Member To Class: ClassName=U_Debugger Member=Component R13 100R
+Added Member To Class: ClassName=U_Debugger Member=Component R14 100R
