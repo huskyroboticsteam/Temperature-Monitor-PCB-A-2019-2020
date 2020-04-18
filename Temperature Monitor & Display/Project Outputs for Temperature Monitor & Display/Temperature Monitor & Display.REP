@@ -48,7 +48,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D12
+    D13
     D24
     D25
     D26
@@ -78,7 +78,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D12
+    D13
     D25
     D26
     D27
@@ -188,7 +188,7 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D12
+    D13
     D35
     D36
     D37
